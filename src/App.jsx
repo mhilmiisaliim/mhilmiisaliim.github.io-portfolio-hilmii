@@ -57,9 +57,9 @@ export default function PortfolioWebsite() {
               <div className="absolute inset-0 bg-cyan-400 blur-3xl opacity-30 rounded-full"></div>
 
               <img
-                src="/profile.jpg"
-                alt="Muhammad Hilmii Saliim"
-                className="relative w-[320px] md:w-[420px] rounded-3xl border-4 border-cyan-400 shadow-2xl object-cover"
+                src={`${import.meta.env.BASE_URL}profile.jpg`}
+                alt="Profile"
+                className="w-64 h-64 object-cover rounded-full"
               />
             </div>
           </div>
