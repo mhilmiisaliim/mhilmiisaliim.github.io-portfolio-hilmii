@@ -58,8 +58,8 @@ export default function PortfolioWebsite() {
 
               <img
                 src={`${import.meta.env.BASE_URL}profile.jpg`}
-                alt="Profile"
-                className="w-64 h-64 object-cover rounded-full"
+                alt="Muhammad Hilmii Saliim"
+                className="w-64 h-64 rounded-full object-cover border-4 border-blue-500 shadow-lg"
               />
             </div>
           </div>
