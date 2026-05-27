@@ -72,7 +72,7 @@ export default function PortfolioWebsite() {
           <h2 className="text-4xl font-bold mb-8 text-cyan-400">About Me</h2>
 
           <p className="text-slate-300 text-lg leading-relaxed">
-            Saya adalah mahasiswa semester 2 Program Studi Sistem Informasi Universitas Brawijaya.
+            Saya adalah mahasiswa Program Studi Sistem Informasi Universitas Brawijaya.
             Saya tertarik dalam pengembangan website, desain antarmuka pengguna (UI/UX),
             serta teknologi digital yang dapat membantu menyelesaikan berbagai permasalahan.
             Saat ini saya sedang mempelajari HTML, CSS, JavaScript, Laravel, dan MySQL.
